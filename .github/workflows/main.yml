@@ -37,7 +37,6 @@ jobs:
         echo "Linted all the python files successfully"
 
   lint_js:
-      /*jshint esversion: 8 */
       name: Lint JavaScript Files
       runs-on: ubuntu-latest
 
